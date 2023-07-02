@@ -1,5 +1,6 @@
 import pickle
 import streamlit as st
+import nltk
 from nltk.corpus import stopwords
 import string
 import re
@@ -20,7 +21,6 @@ def text_preproces(text):
     no_stopwords = [word for word in txt.split() if word not in stopwords.words('english')]
 
     return no_stopwords
-
 
 #Load the model
 
