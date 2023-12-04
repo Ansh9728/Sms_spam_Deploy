@@ -3,3 +3,8 @@ Project is basically based on Natural Language processing to detect the sms mess
 The data is taken from the UCI machine Learning Repository
 the dataset link
 https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+
+
+You can check the Demo from the Below link
+
+https://smsspamdeploy-zofgpwmbxy.streamlit.app/
